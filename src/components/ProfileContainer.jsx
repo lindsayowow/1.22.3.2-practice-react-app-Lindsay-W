@@ -12,6 +12,16 @@ const ProfileContainer = () => {
         "bio": "A software engineer who loves hiking."
     },
     {
+        "name": "Sheri",
+        "age": 49,
+        "bio": "An aspiring CPA with a great sense of humor."
+    },
+    {
+        "name": "Lindsay",
+        "age": 47,
+        "bio": "A LaunchCode student eager to learn."
+    },
+    {
         "name": "Taylor",
         "age": 30,
         "bio": "A designer passionate about photography."

@@ -4,10 +4,14 @@ import ProfileContainer from './components/ProfileContainer';
 import ProfileCard from './components/ProfileCard';
 
 function App() {
-  
+
   return (
     <>
-     <ProfileContainer /> 
+      <header id="top-header">
+        <h1>Biographical Profile Cards</h1>
+
+      </header>
+      <ProfileContainer />
     </>
   )
 }
